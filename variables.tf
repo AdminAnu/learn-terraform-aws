@@ -1,3 +1,3 @@
 variable "bucketname" {
-  default = "tfbucketcreationforstaticwebsite2025"
+  default = "tfbucketcreationforstaticwebsite20252025"
 }
