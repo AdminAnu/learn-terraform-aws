@@ -1,0 +1,9 @@
+# Ignore Terraform-related files and directories
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
